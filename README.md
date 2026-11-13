@@ -1,15 +1,15 @@
 
-# 🏥 Hospital Patient Flow and Waiting-Time Analytics
+# Hospital Patient Flow and Waiting-Time Analytics
 
 ### Transforming Hospital Operations Through Data Analytics
 
-## 📌 Project Overview
+##  Project Overview
 
 **Hospital Patient Flow and Waiting-Time Analytics** is a data analytics project designed to analyze patient movement, hospital operations, and waiting times across different departments.
 
 The project uses **Python** for data processing and analysis and **Microsoft Power BI** for interactive data visualization. It helps identify operational bottlenecks, understand patient waiting patterns, and support better decision-making in healthcare management.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Analyze patient flow across different hospital departments.
 - Measure and monitor patient waiting times.
@@ -19,7 +19,7 @@ The project uses **Python** for data processing and analysis and **Microsoft Pow
 - Support data-driven healthcare decisions.
 - Enhance patient experience and operational efficiency.
 
-## ❗ Problem Statement
+## Problem Statement
 
 Hospitals often experience delays in patient registration, consultation, diagnosis, treatment, and discharge due to inefficient patient flow and resource management.
 
@@ -27,13 +27,13 @@ Without proper analysis, identifying bottlenecks and managing waiting times beco
 
 This project aims to analyze hospital patient data and provide meaningful insights to improve patient flow, reduce waiting times, and enhance hospital operational efficiency.
 
-## 💡 Proposed Solution
+## proposed Solution
 
 The project uses Python and Power BI to transform hospital data into meaningful insights through data cleaning, processing, analysis, and visualization.
 
 An interactive dashboard helps hospital administrators and healthcare professionals monitor important performance indicators and identify areas that require improvement.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -44,7 +44,7 @@ An interactive dashboard helps hospital administrators and healthcare profession
 | Data Visualization | Charts, graphs, and KPI analysis |
 | GitHub | Project management and version control |
 
-## 📊 Key Features
+## Key Features
 
 - **Patient Flow Analysis:** Understand patient movement through different hospital stages.
 - **Waiting-Time Analysis:** Analyze patient waiting times across departments.
@@ -54,7 +54,7 @@ An interactive dashboard helps hospital administrators and healthcare profession
 - **Interactive Dashboard:** Explore hospital performance through visual reports.
 - **Data-Driven Insights:** Identify potential bottlenecks and opportunities for improvement.
 
-## 🔄 Project Workflow
+## Project Workflow
 
 1. **Data Collection:** Gather hospital patient and operational data.
 2. **Data Cleaning:** Handle missing values, duplicate records, and inconsistent data.
@@ -64,7 +64,7 @@ An interactive dashboard helps hospital administrators and healthcare profession
 6. **Dashboard Development:** Build an interactive dashboard to present insights.
 7. **Insights and Recommendations:** Identify bottlenecks and suggest operational improvements.
 
-## 📈 Dashboard Insights
+## Dashboard Insights
 
 The dashboard focuses on the following analytical areas:
 
@@ -76,7 +76,7 @@ The dashboard focuses on the following analytical areas:
 - Department-Wise Waiting-Time Comparison
 - Patient Flow and Treatment Progress
 
-## 👥 Target Users
+## Target Users
 
 - Hospital Administrators
 - Doctors and Medical Professionals
@@ -85,7 +85,7 @@ The dashboard focuses on the following analytical areas:
 - Data Analysts
 - Healthcare Researchers
 
-## 🌟 Expected Benefits
+## Expected Benefits
 
 - Reduced patient waiting times.
 - Improved patient flow management.
@@ -94,7 +94,7 @@ The dashboard focuses on the following analytical areas:
 - Improved departmental efficiency.
 - Better healthcare service delivery.
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Real-time patient queue monitoring.
 - Predictive analytics for patient waiting times.
@@ -102,11 +102,11 @@ The dashboard focuses on the following analytical areas:
 - Automated hospital performance reports.
 - Integration with hospital management systems.
 
-## 📂 Project Repository
+## project Repository
 
 **GitHub:** https://github.com/thadishettyniranjan-bit/Hospital-Patient-Flow-and-Waiting-Time-Analytics
 
-## 👨‍💻 Author
+## Author
 
 **Project Name:** Hospital Patient Flow and Waiting-Time Analytics
 
